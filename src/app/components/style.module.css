@@ -1,0 +1,55 @@
+
+.heading{
+    text-decoration-line: underline;
+    text-decoration-color: white;
+    font-style: italic;
+    text-indent: 150px;
+    margin: 20px 0; 
+}
+
+.list{
+    font-style: italic;
+    text-indent: 80px;
+    margin: 20px 0; 
+}
+
+.data{
+    color:white;
+    font-size: 25px;
+
+}
+.background{
+    background-color:dodgerblue;
+    color: white;
+    
+}
+
+.nav{
+    background-color:rgb(3, 76, 148);
+    padding: 25px 25px;
+    color: white;
+    height: 40px;
+    font-size: 25px;
+
+}
+
+.button{
+    background-color:rgb(3, 76, 148);
+    width: 100px;
+    height: 50px; 
+    font-size: 18px;
+    padding: 10px 20px;
+    margin-left: 150px;
+}
+
+.body{
+    text-indent: 60px;
+}
+
+.backgroundCountry{
+    background-color: peachpuff;
+    color: chocolate;
+    
+}
+
+

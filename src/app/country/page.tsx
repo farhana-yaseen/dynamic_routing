@@ -12,7 +12,7 @@ export default function Country() {
             <ul>
                 {countries.map((item) =>{
                     return( 
-                <li className={style.list}>
+                <li key={item.name} className={style.list}>
                     <Link className={style.data} href={`/country/${item.name}`}>{item.name}
                     </Link>
                 </li>)

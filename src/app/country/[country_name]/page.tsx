@@ -1,7 +1,6 @@
 import style from "../../components/style.module.css"
 import countries from "@/app/components/countries"
 import Link from "next/link";
-import Country from "../page";
 
 export default function getCountriesData({params}:{params:{country_name:string}}){
         
